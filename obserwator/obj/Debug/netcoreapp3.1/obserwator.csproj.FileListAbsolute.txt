@@ -1,0 +1,13 @@
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.csprojAssemblyReference.cache
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.AssemblyInfoInputs.cache
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.AssemblyInfo.cs
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.csproj.CoreCompileInputs.cache
+E:\studia\4sem\wp\obserwator\obserwator\bin\Debug\netcoreapp3.1\obserwator.exe
+E:\studia\4sem\wp\obserwator\obserwator\bin\Debug\netcoreapp3.1\obserwator.deps.json
+E:\studia\4sem\wp\obserwator\obserwator\bin\Debug\netcoreapp3.1\obserwator.runtimeconfig.json
+E:\studia\4sem\wp\obserwator\obserwator\bin\Debug\netcoreapp3.1\obserwator.runtimeconfig.dev.json
+E:\studia\4sem\wp\obserwator\obserwator\bin\Debug\netcoreapp3.1\obserwator.dll
+E:\studia\4sem\wp\obserwator\obserwator\bin\Debug\netcoreapp3.1\obserwator.pdb
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.dll
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.pdb
+E:\studia\4sem\wp\obserwator\obserwator\obj\Debug\netcoreapp3.1\obserwator.genruntimeconfig.cache
