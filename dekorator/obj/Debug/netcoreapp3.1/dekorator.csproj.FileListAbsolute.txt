@@ -1,0 +1,13 @@
+E:\studia\4sem\wp\dekorator\dekorator\bin\Debug\netcoreapp3.1\dekorator.exe
+E:\studia\4sem\wp\dekorator\dekorator\bin\Debug\netcoreapp3.1\dekorator.deps.json
+E:\studia\4sem\wp\dekorator\dekorator\bin\Debug\netcoreapp3.1\dekorator.runtimeconfig.json
+E:\studia\4sem\wp\dekorator\dekorator\bin\Debug\netcoreapp3.1\dekorator.runtimeconfig.dev.json
+E:\studia\4sem\wp\dekorator\dekorator\bin\Debug\netcoreapp3.1\dekorator.dll
+E:\studia\4sem\wp\dekorator\dekorator\bin\Debug\netcoreapp3.1\dekorator.pdb
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.csprojAssemblyReference.cache
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.AssemblyInfoInputs.cache
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.AssemblyInfo.cs
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.csproj.CoreCompileInputs.cache
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.dll
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.pdb
+E:\studia\4sem\wp\dekorator\dekorator\obj\Debug\netcoreapp3.1\dekorator.genruntimeconfig.cache
