@@ -1,0 +1,13 @@
+E:\studia\4sem\wp\fabryka\fabryka\bin\Debug\netcoreapp3.1\fabryka.exe
+E:\studia\4sem\wp\fabryka\fabryka\bin\Debug\netcoreapp3.1\fabryka.deps.json
+E:\studia\4sem\wp\fabryka\fabryka\bin\Debug\netcoreapp3.1\fabryka.runtimeconfig.json
+E:\studia\4sem\wp\fabryka\fabryka\bin\Debug\netcoreapp3.1\fabryka.runtimeconfig.dev.json
+E:\studia\4sem\wp\fabryka\fabryka\bin\Debug\netcoreapp3.1\fabryka.dll
+E:\studia\4sem\wp\fabryka\fabryka\bin\Debug\netcoreapp3.1\fabryka.pdb
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.csprojAssemblyReference.cache
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.AssemblyInfoInputs.cache
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.AssemblyInfo.cs
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.csproj.CoreCompileInputs.cache
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.dll
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.pdb
+E:\studia\4sem\wp\fabryka\fabryka\obj\Debug\netcoreapp3.1\fabryka.genruntimeconfig.cache
