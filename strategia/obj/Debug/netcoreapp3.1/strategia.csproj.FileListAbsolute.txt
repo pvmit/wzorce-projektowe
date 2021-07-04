@@ -1,0 +1,13 @@
+E:\studia\4sem\wp\strategia\strategia\bin\Debug\netcoreapp3.1\strategia.exe
+E:\studia\4sem\wp\strategia\strategia\bin\Debug\netcoreapp3.1\strategia.deps.json
+E:\studia\4sem\wp\strategia\strategia\bin\Debug\netcoreapp3.1\strategia.runtimeconfig.json
+E:\studia\4sem\wp\strategia\strategia\bin\Debug\netcoreapp3.1\strategia.runtimeconfig.dev.json
+E:\studia\4sem\wp\strategia\strategia\bin\Debug\netcoreapp3.1\strategia.dll
+E:\studia\4sem\wp\strategia\strategia\bin\Debug\netcoreapp3.1\strategia.pdb
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.csprojAssemblyReference.cache
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.AssemblyInfoInputs.cache
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.AssemblyInfo.cs
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.csproj.CoreCompileInputs.cache
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.dll
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.pdb
+E:\studia\4sem\wp\strategia\strategia\obj\Debug\netcoreapp3.1\strategia.genruntimeconfig.cache
